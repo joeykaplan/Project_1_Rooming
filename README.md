@@ -1,7 +1,6 @@
 # Project_1_Rooming
 This program assigns students/campers to rooms for overnight trips, with the constraint that each student/camper could request up to three roommates.
-
-This program assigns boys to rooms for overnight trips, with the constraint that each boy could request up to three roommates.
+###
 
 During my senior year of high school, I worked on an independent computer science project where I designed an algorithm to assign students to rooms for overnight school trips, with the constraint that each student could request up to three roommates. Unfortunately, I did not finish the project asdue to COVID-19, which put a halt to school trips. Recently, I took a new look at this project by applying the skills I gained in college, particularly from my data structures class.
 
